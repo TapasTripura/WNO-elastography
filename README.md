@@ -34,4 +34,4 @@ For performing predictions on new inputs, one can use the 'WNO_testing_(.).py' c
 
 # Dataset
   + The training and testing datasets for the (i) Burgers equation with discontinuity in the solution field (section 4.1), (ii) 2-D Allen-Cahn equation (section 4.5), and (iii) Weakly-monthly mean 2m air temperature (section 5) are available in the following link:
-    > [Dataset-1](https://drive.google.com/drive/folders/1scfrpChQ1wqFu8VAyieoSrdgHYCbrT6T?usp=sharing)
+    > [Dataset](https://drive.google.com/drive/folders/1AnH7l9oeOgoLdZiIl5YDmyomZX-0_QPA?usp=sharing)
