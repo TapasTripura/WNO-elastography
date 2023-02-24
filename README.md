@@ -8,7 +8,7 @@ This repository contains the python codes of the paper
 # Files
 A short despcription on the files are provided below for ease of readers.
   + `wnoe_(...).py`: The files with this type of names are the main code.
-  + `WNOE_(...).py`: The codes with this type of names are used to perform predictions in new inputs.
+  + `WNOE_testing_(...).py`: The codes with this type of names are used to perform predictions on new inputs.
   + `utilities3.py` contains some useful functions (taken from [FNO paper](https://github.com/zongyi-li/fourier_neural_operator)).
 
 # Library support
