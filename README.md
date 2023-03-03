@@ -2,8 +2,8 @@
 This repository contains the python codes of the paper 
   > + "A wavelet neural operator based elastography for localization and quantification of tumors", authored by Tapas Tripura, Abhilash Awasthi, Sitikantha Roy, and Souvik Chakraborty.
 
-# Architecture of the wavelet neural operator elastography (WNO-elastography). 
-![WNO](WNO_elastography.png)
+# Architecture of the wavelet neural operator elastography (WNO-elastography).
+![WNO elastography](WNO_elastography.png)
 
 # Files
 A short despcription on the files are provided below for ease of readers.
